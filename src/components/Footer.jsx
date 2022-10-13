@@ -23,9 +23,10 @@ const Footer = () => {
         <div className='flex flex-col max-w-[1240px] px-2 py-4 mx-auto justify-between sm:flex-row text-center text-gray-500'>
         <p className='py-4'>2022 Haiwolf, All rights reserved</p>
         <div className='flex justify-between sm:w-[100px] pt-4 text-2xl'>
-            <a href='"https://www.instagram.com/_hadii.7._/?igshid=YmMyMTA2M2Y%3D"' target="_blank" rel="noreferrer"><FaInstagram /> </a>
-            <a href='https://www.linkedin.com/in/haider-ali-391868229/' target="_blank" rel="noreferrer"><FaLinkedin /> </a>
-           <a href='https://github.com/HaiVvolf777' target="_blank" rel="noreferrer"> <FaGithub /> </a>
+            <a href='"https://www.instagram.com/_hadii.7._/?igshid=YmMyMTA2M2Y%3D"'><FaInstagram /> </a>
+            <a href='https://www.linkedin.com/in/haider-ali-391868229/' ><FaLinkedin /> </a>
+           <a href='https://github.com/HaiVvolf777' > <FaGithub /> </a>
+          
         </div>
         </div>
     </div>
